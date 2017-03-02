@@ -1,18 +1,3 @@
-/*############################################################################*/
-/*#                                                                          #*/
-/*#  Ambisonic C++ Library                                                   #*/
-/*#  CAmbisonicSource - Ambisonic Source                                     #*/
-/*#  Copyright � 2007 Aristotel Digenis                                      #*/
-/*#                                                                          #*/
-/*#  Filename:      AmbisonicSource.cpp                                      #*/
-/*#  Version:       0.1                                                      #*/
-/*#  Date:          19/05/2007                                               #*/
-/*#  Author(s):     Aristotel Digenis                                        #*/
-/*#  Licence:       MIT                                                      #*/
-/*#                                                                          #*/
-/*############################################################################*/
-
-
 #include "AmbisonicSource.h"
 
 CAmbisonicSource::CAmbisonicSource()

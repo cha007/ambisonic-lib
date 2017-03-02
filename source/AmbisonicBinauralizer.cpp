@@ -1,18 +1,3 @@
-/*############################################################################*/
-/*#                                                                          #*/
-/*#  Ambisonic C++ Library                                                   #*/
-/*#  CAmbisonicBinauralizer - Ambisonic Binauralizer                         #*/
-/*#  Copyright � 2007 Aristotel Digenis                                      #*/
-/*#                                                                          #*/
-/*#  Filename:      AmbisonicBinauralizer.cpp                                #*/
-/*#  Version:       0.1                                                      #*/
-/*#  Date:          19/05/2007                                               #*/
-/*#  Author(s):     Aristotel Digenis                                        #*/
-/*#  Licence:       MIT                                                      #*/
-/*#                                                                          #*/
-/*############################################################################*/
-
-
 #include "AmbisonicBinauralizer.h"
 
 

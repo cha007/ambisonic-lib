@@ -1,18 +1,3 @@
-/*############################################################################*/
-/*#                                                                          #*/
-/*#  Ambisonic C++ Library                                                   #*/
-/*#  CBFormat - Ambisonic BFormat                                            #*/
-/*#  Copyright � 2007 Aristotel Digenis                                      #*/
-/*#                                                                          #*/
-/*#  Filename:      BFormat.h                                                #*/
-/*#  Version:       0.1                                                      #*/
-/*#  Date:          19/05/2007                                               #*/
-/*#  Author(s):     Aristotel Digenis                                        #*/
-/*#  Licence:       MIT                                                      #*/
-/*#                                                                          #*/
-/*############################################################################*/
-
-
 #ifndef _BFORMAT_H
 #define	_BFORMAT_H
 

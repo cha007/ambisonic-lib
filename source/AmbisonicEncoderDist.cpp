@@ -1,18 +1,3 @@
-/*############################################################################*/
-/*#                                                                          #*/
-/*#  Ambisonic C++ Library                                                   #*/
-/*#  CAmbisonicEncoderDist - Ambisonic Encoder with distance                 #*/
-/*#  Copyright � 2007 Aristotel Digenis                                      #*/
-/*#                                                                          #*/
-/*#  Filename:      AmbisonicEncoderDist.cpp                                 #*/
-/*#  Version:       0.1                                                      #*/
-/*#  Date:          19/05/2007                                               #*/
-/*#  Author(s):     Aristotel Digenis                                        #*/
-/*#  Licence:       MIT                                                      #*/
-/*#                                                                          #*/
-/*############################################################################*/
-
-
 #include "AmbisonicEncoderDist.h"
 
 CAmbisonicEncoderDist::CAmbisonicEncoderDist()

@@ -1,18 +1,3 @@
-/*############################################################################*/
-/*#                                                                          #*/
-/*#  Ambisonic C++ Library                                                   #*/
-/*#  CAmbisonicProcessor - Ambisonic Processor                               #*/
-/*#  Copyright � 2007 Aristotel Digenis                                      #*/
-/*#                                                                          #*/
-/*#  Filename:      AmbisonicProcessor.cpp                                   #*/
-/*#  Version:       0.1                                                      #*/
-/*#  Date:          19/05/2007                                               #*/
-/*#  Author(s):     Aristotel Digenis                                        #*/
-/*#  Licence:       MIT                                                      #*/
-/*#                                                                          #*/
-/*############################################################################*/
-
-
 #include "AmbisonicProcessor.h"
 
 CAmbisonicProcessor::CAmbisonicProcessor()
