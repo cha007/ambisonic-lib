@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "amblib", "amblib.vcxproj", "{2A4B732A-F110-4ABE-B06D-10805C13AEE2}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testProject", "..\testProject\testProject.vcxproj", "{468BEAA9-BB28-47B5-A37D-082FD6FD1594}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2A4B732A-F110-4ABE-B06D-10805C13AEE2} = {2A4B732A-F110-4ABE-B06D-10805C13AEE2}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

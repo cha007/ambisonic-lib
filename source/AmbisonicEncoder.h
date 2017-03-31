@@ -28,6 +28,10 @@ public:
 		Encode mono stream to B-Format.
 	*/
 	void Process(AmbFloat* pfSrc, AmbUInt nSamples, CBFormat* pBFDst);
+	/*
+		Rotate the mono sound around center
+	*/
+	void ProcessWithRotation(AmbFloat* pfSrc, AmbUInt nSamples, CBFormat* pfDst, int offset);
 };
 
 #endif // _AMBISONIC_ENCODER_H
